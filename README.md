@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">🎓 Estudante de <strong>Tecnologia em Sistemas para Internet</strong>, viciada em Coca-Cola e apaixonada por códigos.<br>🚀 Explorando o mundo do <strong>desenvolvimento web</strong> e buscando minha especialização em programação!<br>🍕 Com um paladar infantil, sempre fugindo de legumes e buscando receitas simples.</p>
+<p align="left">🎓 Estudante de <strong>Tecnologia em Sistemas para Internet</strong>, viciada em Coca-Cola e apaixonada por códigos.<br>🚀 Explorando o mundo do <strong>desenvolvimento web</strong> e buscando minha especialização em programação!<br>🍕 Com um paladar infantil, sempre fugindo de legumes e buscando receitas simples.</p>
 
 ---
 
@@ -53,12 +53,10 @@
 ---
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysC&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=LaysC&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LaysC&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
 ---
 
 ### 💬 Bora bater um papo?
