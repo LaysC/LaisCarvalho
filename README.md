@@ -17,9 +17,7 @@
 ---
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=30&duration=3000&pause=1000&color=9B9BFE&vCenter=true&width=440&lines=Apaixonada+por+códigos...;Programação+é+minha+vida!" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8812FC&center=true&vCenter=true&width=435&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 </div>
 
 ---
